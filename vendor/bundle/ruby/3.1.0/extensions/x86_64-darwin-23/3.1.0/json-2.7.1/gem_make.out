@@ -1,0 +1,13 @@
+current directory: /Users/arijit/Downloads/Project/NewSetup/betrics-mobile-app/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+/Users/arijit/.rbenv/versions/3.1.2/bin/ruby -I /Users/arijit/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20240215-37053-zd6kw2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/arijit/Downloads/Project/NewSetup/betrics-mobile-app/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= clean
+
+current directory: /Users/arijit/Downloads/Project/NewSetup/betrics-mobile-app/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for `all'.
+
+current directory: /Users/arijit/Downloads/Project/NewSetup/betrics-mobile-app/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= install
